@@ -1,0 +1,11 @@
+{
+  "name": "hw02",
+  "version": "0.0.1",
+  "description": "Coursera Startup Engineering Homework 2",
+  "main": "",
+  "dependencies": {
+    "csv": "~0.3.3",
+    "accounting": "~0.3.2",
+    "restler": "~2.0.1"
+  }
+}
